@@ -65,8 +65,8 @@ Player.prototype.handleInput = function(keypressed) {
     } 
     else if (keypressed == 'right') {
         this.xcor += this.speed;
-        if (this.xcor > 500) {
-            this.xcor = 500;
+        if (this.xcor > 400) {
+            this.xcor = 400;
         }
     } 
     else if (keypressed == 'up') {

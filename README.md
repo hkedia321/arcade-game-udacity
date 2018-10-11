@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
-===============================
+# Arcade Game
+This is an arcade game, made for Udacity Frontend Nanodegree project. User can use left, right, up, and down arrow keys to move themself in the board. They need to avoid colliding with the enemies (bugs) and reach the water on the top. Their score increases once they reach the top.
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Demo link
+https://hkedia321.github.io/arcade-game-udacity
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/17807257/46789082-4a789500-cd59-11e8-9165-e6a9e7e3e6ba.png)
